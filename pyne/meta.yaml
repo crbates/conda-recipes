@@ -4,7 +4,7 @@ package:
 
 source:
   fn: pyne.tar.gz
-  url : https://github.com/pyne/pyne/archive/staging.tar.gz
+  url : https://github.com/pyne/pyne/archive/py3k.tar.gz
 
 requirements:
   build:
